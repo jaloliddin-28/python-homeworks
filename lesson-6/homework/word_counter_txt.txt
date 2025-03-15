@@ -1,0 +1,8 @@
+Word Count Report
+Total Words: 128
+Top 5 Words:
+the - 16 times
+of - 6 times
+ocean - 5 times
+it - 3 times
+a - 3 times
