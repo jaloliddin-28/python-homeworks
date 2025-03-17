@@ -1,0 +1,3 @@
+100, Jaloliddin, AI Engineer, 25000
+101, Humoyun, Sucker, 10000
+102, Shah, Software, 10000
